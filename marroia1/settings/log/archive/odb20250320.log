@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-20 14:43:37 #1 store] 
+Database '/Users/arruti/eclipse-workspace/2marroia25.zip_expanded/2marroia25/erreserba_data.odb' is opened by 2536@MacBook-Air-de-Benat.local
+
+[2025-03-20 14:43:37 #2 store] 
+Configuration path: ?
+
+[2025-03-20 14:43:37 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2025-03-20 14:43:37 #4 type] 
+Type domain.Flight is not enhanced.
+
+[2025-03-20 14:57:41 #5 store] 
+Database '/Users/arruti/eclipse-workspace/2marroia25.zip_expanded/2marroia25/erreserba_data.odb' is closed by 2536@MacBook-Air-de-Benat.local
+
